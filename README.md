@@ -1,4 +1,4 @@
-# Chloe Henry
+<h1 style="text-align: center;"><span style="color: #008080;">Chloe Henry</span></h1>
 <p style="text-align: center;"><strong><span style="color: #008080;">Chloe Lauren Henry</span></strong></p>
 <p style="text-align: center;">. s3791766</p>
 <p style="text-align: center;">.&nbsp;<a href="mailto:s3791766@student.rmit.edu.au">s3791766@student.rmit.edu.au</a>&nbsp;,&nbsp;<a href="mailto:ahswinters@outlook.com">ahswinters@outlook.com</a></p>
