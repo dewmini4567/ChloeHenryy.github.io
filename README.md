@@ -1,5 +1,6 @@
 <h1 style="text-align: center;"><span style="color: #008080;">Chloe Henry</span></h1>
 <p style="text-align: center;"><strong><span style="color: #008080;">Chloe Lauren Henry</span></strong></p>
+<p><img src="https://scontent.fmel7-1.fna.fbcdn.net/v/t1.0-9/55560447_1978150225640726_8829668821670297600_n.jpg?_nc_cat=110&amp;_nc_ht=scontent.fmel7-1.fna&amp;oh=919150118be7d890c1b3b90c53084e78&amp;oe=5D4A895C" alt="Me" width="568" height="568" /></p>
 <p style="text-align: center;">. s3791766</p>
 <p style="text-align: center;">.&nbsp;<a href="mailto:s3791766@student.rmit.edu.au">s3791766@student.rmit.edu.au</a>&nbsp;,&nbsp;<a href="mailto:ahswinters@outlook.com">ahswinters@outlook.com</a></p>
 <p style="text-align: center;">. Background info includes: Australian (predominantly English/German background), Education to date includes Berwick Fields Primary School 2006-2012, Kambrya College 2013-2018, RMIT 2019 - ?</p>
